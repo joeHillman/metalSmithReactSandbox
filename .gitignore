@@ -1,0 +1,4 @@
+# build - just keep this directory, it houses the react files - th react bits were taken wholesale from another tutorial
+node_modules
+dest
+.DS_store
